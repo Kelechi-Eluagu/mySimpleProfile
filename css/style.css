@@ -18,6 +18,9 @@ body {
   margin: 0 auto;
   text-align: center;
 }
+.abt {
+  padding: 100px 30px;
+}
 .btn-primary {
   color: #fff;
   background-color: #007bff;
@@ -31,34 +34,9 @@ body {
   background-color: #0069d9;
   border-color: #0062cc;
 }
-
-/*i {
-  padding-left: 30px !important;
-  margin-right: 20px;
+i {
+  padding-right: 20px;
 }
-i, footer > h5 {
-  color: #81C2FC;
-}
-.left p  , .pad p{
-  padding-bottom: 0;
-  margin-bottom: 0;
-  color: #cccccc;
-}*/
-/*h5 strong {
-  padding-top: 0;
-  margin-top: 0;
-}
-.left {
-  border-right: 1px solid #cccccc;
-  padding-right: 15px
-}
-.pad {
-  padding-left: 15px;
-  /*justify-content: center;*/
-}
-.shadow {
-  
-}*/
 footer {
   /*top: 0;*/
   width: 100%;
