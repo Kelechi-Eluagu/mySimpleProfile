@@ -21,7 +21,7 @@ body {
 .abt {
   padding: 100px 30px;
 }
-.btn-primary {
+.btn-blue {
   color: #fff;
   background-color: #007bff;
   border-color: #007bff;
@@ -29,7 +29,7 @@ body {
   padding: 10px 30px;
   border-radius: 8px;
 }
-.btn-primary:hover {
+.btn-blue:hover {
   color: #fff;
   background-color: #0069d9;
   border-color: #0062cc;
@@ -43,7 +43,7 @@ footer {
   box-shadow: 0px 0 5px rgba(0, 0, 0, 0.8);
   padding: 0.2px 0;
   /*margin: 5px 50px 0px;*/
-  text-align: right;
+  text-align: center;
 }
 
 /*/ Medium devices (tablets, 768px and up)*/
