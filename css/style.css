@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    background-color: milk;
+    background-color: #f4f4f4;
 }
 #kellyImg {
   background: url("../img/kay1.jpg");
@@ -10,7 +10,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 100vh;
+  height: 90vh;
   width: 100%;
 }
 .container {
@@ -47,18 +47,17 @@ footer {
   text-align: center;
 }
 
-/*/ Medium devices (tablets, 768px and up)*/
-/*@media (min-width: 768px) and (max-width: 991.98px) {
-  article p{
-    line-height: 3em;
-  }*/
   @media (min-width: 768px) { 
     #kellyImg {
-      height: 60rem;
+      height: 80vh;
+      width: 40%;
+      padding: 0 auto;
+      margin-left: 30%;
+    }
+    /*.body {
+      display: flex;
+    }*/
+    .comtainer {
+      width: 20%;
     }
   }
-/*@media (max-width: 991.98px) { 
-  #kellyImg {
-    height: 80rem;
-   }
- }*/
